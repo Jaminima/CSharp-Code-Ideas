@@ -43,7 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Ceasar-Cypher.cs" />
+    <Compile Include="Ceasar-Cipher.cs" />
+    <Compile Include="Guess-The-Number.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -10,7 +10,11 @@ namespace CSharp_Code_Ideas
     {
         static void Main(string[] args)
         {
-            string s = Ceasar_Cipher.SingleShift("helloz");
+            //string s = Ceasar_Cipher.SingleShift("helloz");
+
+            Guess_The_Number.PlaySimple();
+
+            Console.ReadLine();
         }
     }
 }
