@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CSharp_Code_Ideas
 {
-    public static class Ceasar_Cypher
+    public static class Ceasar_Cipher
     {
         public static string SingleShift(string Raw, int offset = 1)
         {
