@@ -10,6 +10,7 @@ namespace CSharp_Code_Ideas
     {
         static void Main(string[] args)
         {
+            string s = Ceasar_Cypher.SingleShift("helloz");
         }
     }
 }
