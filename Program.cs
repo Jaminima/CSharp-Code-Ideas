@@ -12,7 +12,10 @@ namespace CSharp_Code_Ideas
         {
             //string s = Ceasar_Cipher.SingleShift("helloz");
 
-            Guess_The_Number.PlayHighLow();
+            //Guess_The_Number.PlaySimple();
+            //Guess_The_Number.PlayHighLow();
+
+            Tic_Tac_Toe.PlayTicTacToe();
 
             Console.ReadLine();
         }
