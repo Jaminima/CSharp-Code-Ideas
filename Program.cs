@@ -15,7 +15,9 @@ namespace CSharp_Code_Ideas
             //Guess_The_Number.PlaySimple();
             //Guess_The_Number.PlayHighLow();
 
-            Tic_Tac_Toe.PlayTicTacToe();
+            //Tic_Tac_Toe.PlayTicTacToe();
+
+            HangMan.Start();
 
             Console.ReadLine();
         }

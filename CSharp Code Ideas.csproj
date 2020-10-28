@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Ceasar-Cipher.cs" />
     <Compile Include="Guess-The-Number.cs" />
+    <Compile Include="HangMan.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Tic-Tac-Toe.cs" />
